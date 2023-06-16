@@ -23,9 +23,9 @@ a =np .array([[1,-3],[3,1]])
 b =np .array([0,10])
 x =np .linalg.solve(a,b)
 print(x)
-
-## Output:
 ```
+## Output:
+
 ![image](https://user-images.githubusercontent.com/122008288/227966762-f1449168-4279-4af7-b035-2aaf2d0ef943.png)
 
 ## Result: 
